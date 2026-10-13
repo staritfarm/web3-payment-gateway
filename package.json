@@ -1,0 +1,7 @@
+{
+  "name": "@staritfarm/web3-payment-gateway",
+  "version": "1.0.0",
+  "description": "Institutional Multi-Chain Web3 Payment Gateway Architecture",
+  "main": "dist/index.js",
+  "license": "MIT"
+}
